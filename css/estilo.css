@@ -1,0 +1,49 @@
+body{
+	background-image: url('../img/bg.png');
+}
+
+#principal{
+	margin-top: 30px;
+	text-align: center;
+}
+
+#box-amigo{
+	padding: 10px;
+	font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+	background-color: #F5F7FA;
+	margin: 0 auto;
+	text-align: center;
+	width: 500px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+   -Webkit-border-radius: 10px;
+}
+
+#box-amigo a { font-size: 12px; color: #3B5998; text-decoration: none; font-weight: bold; }
+#box-amigo a:hover { text-decoration: underline; }
+
+#botao-recomendar { padding: 10px; height: 30px; }
+
+#botoes { padding: 10px; }
+
+#titulo { 
+	border: 1px solid #D8DFEA; 
+	padding: 5px; 
+	margin: 10px; 
+	font-size: 16px; 
+	font-weight: bold; 
+	color: #333333;
+	background-color: #F2F2F2; 
+}
+
+.botao-facebook {
+	-webkit-box-shadow: rgba(0, 0, 0, 0.0.97) 0px 1px 0px 0px;
+	background-color: #5B74A8;
+	border: 1px solid #29447E;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 2px 6px;
+	height: 28px;
+	color: #fff;
+	/*border-radius: 5px;*/
+}
