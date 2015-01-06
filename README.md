@@ -3,6 +3,8 @@ daily-friend
 
 Aplicativo que sorteia um amigo aleatório do Facebook do usuário.
 
+**Atualização:** devido a mudanças no Facebook, este app provavelmente não funciona mais. Sinta-se à vontade para fazê-lo funcionar novamente. ;)
+
 Estrutura de arquivos
 ----------
 * db/ -> Pasta que contem o banco de dados da aplicação.  
